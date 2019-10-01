@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - NonRepeatingChar",
+            "request": "launch",
+            "mainClass": "NonRepeatingChar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SmallestSubArraySum",
+            "request": "launch",
+            "mainClass": "SmallestSubArraySum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AlphabetCombination",
+            "request": "launch",
+            "mainClass": "AlphabetCombination"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SubarraySum",
             "request": "launch",
             "mainClass": "SubarraySum"
